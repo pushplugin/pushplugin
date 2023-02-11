@@ -1,0 +1,8 @@
+{
+	"latest_version": "1.0.0",
+	"latest_file": "https://pushplugin.com/download/plugin.zip",
+	"popup_content": "Pushplugin 1.0.0 is now available. Download Now!",
+	"force_version": "1.0.0",
+	"trial": true,
+	"message": "Free for 7 days, no credit card required"
+}
