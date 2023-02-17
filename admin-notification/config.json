@@ -1,8 +1,8 @@
 {
-	"banner": true,
+	"banner": false,
 	"image": "https://cdn.pushplugin.com/admin-notification/banner.png",
 	"link": "https://pushplugin.com?utm_source=wp-admin&utm_medium=notification&utm_campaign=wp-admin-notification",
-	"settings_banner": true,
+	"settings_banner": false,
 	"settings_image": "https://cdn.pushplugin.com/admin-notification/banner.png",
 	"settings_link": "https://pushplugin.com?utm_source=wp-admin&utm_medium=notification&utm_campaign=wp-admin-notification"
 }
